@@ -1,0 +1,19 @@
+
+.gitignore · GITIGNORE
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ 
+# Cache do Python
+__pycache__/
+*.py[cod]
+ 
+# IDE / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+ 
+# Variáveis de ambiente e segredos
+.env
